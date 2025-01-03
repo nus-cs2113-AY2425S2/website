@@ -638,12 +638,12 @@
       "headings": {
         "tp-timeline": "tP: Timeline ",
         "week-3-kickoff": "Week 3 Kickoff",
-        "week-4-set-direction": "Week 4 Set direction",
-        "week-5-gather-requirements": "Week 5 Gather requirements",
-        "week-6-define-mvp-set-up-repo": "Week 6 Define MVP, set up repo",
-        "week-7-plan-the-iteration": "Week 7 Plan the iteration",
+        "week-4-set-direction": "Week 4 Set Direction",
+        "week-5-gather-requirements": "Week 5 Gather Requirements",
+        "week-6-define-mvp-set-up-repo": "Week 6 Define MVP, Set up Repo",
+        "week-7-plan-the-iteration": "Week 7 Plan the Iteration",
         "w8-w9-iteration-1-v1-0": " W8   W9  Iteration 1 → v1.0",
-        "w10-w11-w12-iteration-2-v2-0": "W10 W11 W12 Iteration 2 → v2.0",
+        "w10-w11-iteration-2-v2-0": "W10 W11  Iteration 2 → v2.0",
         "w13-iteration-3-v2-1": "W13 Iteration 3 → v2.1"
       },
       "headingKeywords": {}
@@ -671,33 +671,33 @@
         "1-update-ug-and-dg": "1  Update UG and DG",
         "2-review-others-dg-during-the-tutorial-counted-for-participation": "2  Review others' DG  during the tutorial counted for participation",
         "dg-possible-bugs": "DG - Possible Bugs",
-        "3-deliver-v2-0-thu-apr-10th-23-59": "3  Deliver v2.0  Thu, Apr 10th 23:59",
-        "4-draft-the-ppp": "4  Draft the PPP"
+        "3-deliver-v2-0-thu-apr-3rd-23-59": "3  Deliver v2.0  Thu, Apr 3rd 23:59",
+        "4-draft-the-ppp": "4  Draft the PPP",
+        "5-attend-the-practical-exam-dry-run-during-the-lecture-on-fri-apr-4th-counted-for-participation": "5  Attend the practical exam dry run  During the lecture on Fri, Apr 4th  counted for participation"
       },
       "headingKeywords": {}
     },
     {
       "src": "admin/tp-w12.md",
-      "title": "Admin: tP Week 12: Extra week for v2.0",
+      "title": "Admin: tP Week 12: v2.1",
       "headings": {
-        "tp-week-12-extra-week-for-v2-0": "tP Week 12: Extra week for v2.0 ",
+        "tp-week-12-v2-1": "tP Week 12: v2.1 ",
         "intro-to-tp-week-12": "Intro to tP Week 12",
-        "1-finish-any-remaining-v2-0-tasks": "1 Finish any remaining v2.0 tasks",
-        "2-attend-the-practical-exam-dry-run-during-the-lecture-on-fri-apr-11th-counted-for-participation": "2  Attend the practical exam dry run  During the lecture on Fri, Apr 11th  counted for participation"
+        "1-fix-pe-d-bugs": "1  Fix PE-D bugs",
+        "2-submit-final-deliverables-tue-apr-8th-14-00": "2  Submit final deliverables  Tue, Apr 8th 14:00",
+        "3-submit-the-demo-video": "3 Submit the demo video",
+        "4-prepare-for-the-practical-exam": "4  Prepare for the practical exam",
+        "5-attend-the-practical-exam-during-the-lecture-on-fri-apr-11th": "5  Attend the practical exam  during the lecture on Fri, Apr 11th "
       },
       "headingKeywords": {}
     },
     {
       "src": "admin/tp-w13.md",
-      "title": "Admin: tP Week 13: v2.1",
+      "title": "Admin: tP Week 13: Post-Release Tasks",
       "headings": {
-        "tp-week-13-v2-1": "tP Week 13: v2.1 ",
+        "tp-week-13-post-release-tasks": "tP Week 13: Post-Release Tasks ",
         "intro-to-tp-week-13": "Intro to tP Week 13",
-        "1-fix-pe-d-bugs": "1  Fix PE-D bugs",
-        "2-submit-final-deliverables-tue-apr-15th-14-00": "2  Submit final deliverables  Tue, Apr 15th 14:00",
-        "3-submit-the-demo-video": "3 Submit the demo video",
-        "4-prepare-for-the-practical-exam": "4  Prepare for the practical exam",
-        "5-attend-the-practical-exam-during-the-lecture-on-fri-apr-18th": "5  Attend the practical exam  during the lecture on Fri, Apr 18th "
+        "1-attend-to-post-release-tasks": "1 / Attend to post-release tasks"
       },
       "headingKeywords": {}
     },
@@ -718,9 +718,9 @@
     },
     {
       "src": "admin/tp-w4.md",
-      "title": "Admin: tP Week 4: Set direction",
+      "title": "Admin: tP Week 4: Set Direction",
       "headings": {
-        "tp-week-4-set-direction": "tP Week 4: Set direction ",
+        "tp-week-4-set-direction": "tP Week 4: Set Direction ",
         "intro-to-tp-week-4": "Intro to tP Week 4",
         "1-start-weekly-project-meetings": "1  Start weekly project meetings",
         "2-start-a-collaborative-doc-to-take-project-notes-before-the-tutorial": "2  Start a collaborative doc to take project notes  before the tutorial",
@@ -734,9 +734,9 @@
     },
     {
       "src": "admin/tp-w5.md",
-      "title": "Admin: tP Week 5: Gather requirements",
+      "title": "Admin: tP Week 5: Gather Requirements",
       "headings": {
-        "tp-week-5-gather-requirements": "tP Week 5: Gather requirements ",
+        "tp-week-5-gather-requirements": "tP Week 5: Gather Requirements ",
         "intro-to-tp-week-5": "Intro to tP Week 5",
         "1-brainstorm-user-stories-before-the-tutorial": "1  Brainstorm user stories  before the tutorial",
         "2-choose-user-stories-for-the-mvp-version-during-the-tutorial": "2  Choose user stories for the MVP version  during the tutorial"
@@ -745,9 +745,9 @@
     },
     {
       "src": "admin/tp-w6.md",
-      "title": "Admin: tP Week 6: Define MVP, set up repo",
+      "title": "Admin: tP Week 6: Define MVP, Set up Repo",
       "headings": {
-        "tp-week-6-define-mvp-set-up-repo": "tP Week 6: Define MVP, set up repo ",
+        "tp-week-6-define-mvp-set-up-repo": "tP Week 6: Define MVP, Set up Repo ",
         "intro-to-tp-week-6": "Intro to tP Week 6",
         "1-conceptualize-the-mvp-version": "1  Conceptualize the MVP version",
         "2-draft-the-ug-midnight-before-the-tutorial": "2  Draft the UG  midnight before the tutorial",
@@ -757,9 +757,9 @@
     },
     {
       "src": "admin/tp-w7.md",
-      "title": "Admin: tP Week 7: Plan the iteration",
+      "title": "Admin: tP Week 7: Plan the Iteration",
       "headings": {
-        "tp-week-7-plan-the-iteration": "tP Week 7: Plan the iteration ",
+        "tp-week-7-plan-the-iteration": "tP Week 7: Plan the Iteration ",
         "intro-to-tp-week-7": "Intro to tP Week 7",
         "1-ensure-you-know-tp-expectations": "1  Ensure you know tP expectations",
         "2-plan-the-next-iteration-v1-0": "2  Plan the next iteration (v1.0)",
@@ -1313,6 +1313,7 @@
         "debugging-basic": "Debugging: Basic",
         "refactoring": "Refactoring",
         "running-intellij-idea-for-the-first-time": "Running IntelliJ IDEA for the First Time",
+        "resources": " Resources:",
         "intellij-idea": "IntelliJ IDEA"
       },
       "headingKeywords": {}

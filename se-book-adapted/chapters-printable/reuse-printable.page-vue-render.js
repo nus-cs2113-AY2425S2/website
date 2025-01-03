@@ -35,6 +35,6 @@ with(this){return _c('p',[_c('strong',[_v("An "),_c('em',[_v("Application Progra
 with(this){return _c('p',[_v("When developing large systems, if you define the API of each component early, the development team can develop the components in parallel "),_c('span',{staticClass:"dimmed"},[_v("because the future behavior of the other components are now more predictable")]),_v(".")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Sat, 28 Dec 2024, 23:53:05 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Fri, 3 Jan 2025, 21:24:45 GMT+8]")])])])}
 }];
   
