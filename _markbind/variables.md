@@ -12,10 +12,10 @@
 
 <variable name="algolia">yes</variable>
 
-<variable name="canvas_course_id">x</variable>
+<variable name="canvas_course_id">69933</variable>
 <variable name="url_instructors">https://docs.google.com/document/d/e/2PACX-1vQ3yMfxtxatSX5XxWnZparVJN9UkEOu504YHyShketpCzdqQth4JDcwQwhWvOBi-XH8-gkdgMgGpg1t/pub?embedded=true</variable>
-<variable name="url_coursemology_classroom">https://coursemology.org/courses/x</variable>
-<variable name="url_ms_teams_class">x</variable>
+<variable name="url_coursemology_classroom">https://coursemology.org/courses/2954</variable>
+<variable name="url_ms_teams_class">https://teams.microsoft.com/l/team/19%3AP9Kg1W6TnkmuoDaZBsvkbDj6MV08LO0KMTu_-im1Y6Q1%40thread.tacv2/conversations?groupId=7f872fef-8257-42d3-b1a1-376bf0f3649e&tenantId=5ba5ef5e-3109-4e77-85bd-cfeb0d347e82</variable>
 
 <variable name="date_w1_start">2025-01-13</variable>
 <variable name="day_first_tutorial">Wednesday</variable>
