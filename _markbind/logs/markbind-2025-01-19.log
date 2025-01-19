@@ -17,3 +17,33 @@
 2025-01-19T13:45:34.607Z - info: Lazy website regeneration complete! Total build time: 0.617s
 2025-01-19T13:48:07.914Z - info: Website generation started at 9:47:39 pm
 2025-01-19T13:48:12.490Z - info: Building assets...
+2025-01-19T13:48:16.347Z - info: Assets built
+2025-01-19T13:48:16.349Z - info: Generating pages...
+2025-01-19T13:48:29.938Z - debug:  
+2025-01-19T13:48:29.939Z - debug:  
+2025-01-19T13:48:29.939Z - debug:  
+2025-01-19T13:48:29.939Z - debug:  
+2025-01-19T13:48:29.940Z - debug:  
+2025-01-19T13:48:29.940Z - debug:  
+2025-01-19T13:48:29.940Z - debug:  
+2025-01-19T13:48:29.947Z - debug:  
+2025-01-19T13:48:29.947Z - debug:  
+2025-01-19T13:48:29.948Z - debug:  
+2025-01-19T13:48:29.948Z - debug:  
+2025-01-19T13:48:29.948Z - debug:  
+2025-01-19T13:48:29.951Z - debug:  
+2025-01-19T13:48:29.959Z - debug:  
+2025-01-19T13:48:29.961Z - debug:  
+2025-01-19T13:48:31.472Z - debug:  
+2025-01-19T13:48:36.552Z - debug:  
+2025-01-19T13:48:59.745Z - debug:  
+2025-01-19T13:50:27.200Z - debug:  
+2025-01-19T13:50:41.456Z - debug:  
+2025-01-19T13:50:41.503Z - debug:  
+2025-01-19T13:50:49.909Z - info: Pages built
+2025-01-19T13:50:51.435Z - info: Site data built
+2025-01-19T13:50:51.435Z - info: Website generation complete! Total build time: 192.098s
+2025-01-19T13:50:51.436Z - info: Build success!
+2025-01-19T13:54:10.868Z - info: The website has been deployed at: https://nus-cs2113-ay2425s2.github.io/website
+2025-01-19T14:19:51.372Z - info: Website generation started at 10:19:38 pm
+2025-01-19T14:19:55.665Z - info: Building assets...
