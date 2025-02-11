@@ -1,0 +1,39 @@
+2025-02-11T13:16:38.385Z - info: Website generation started at 9:16:22 pm
+2025-02-11T13:16:44.679Z - info: Building assets...
+2025-02-11T13:16:50.127Z - info: Assets built
+2025-02-11T13:16:50.129Z - info: Generating pages...
+2025-02-11T13:17:09.997Z - debug:  
+2025-02-11T13:17:09.999Z - debug:  
+2025-02-11T13:17:10.000Z - debug:  
+2025-02-11T13:17:10.000Z - debug:  
+2025-02-11T13:17:10.001Z - debug:  
+2025-02-11T13:17:10.001Z - debug:  
+2025-02-11T13:17:10.005Z - debug:  
+2025-02-11T13:17:10.005Z - debug:  
+2025-02-11T13:17:10.005Z - debug:  
+2025-02-11T13:17:10.008Z - debug:  
+2025-02-11T13:17:10.010Z - debug:  
+2025-02-11T13:17:10.011Z - debug:  
+2025-02-11T13:17:10.011Z - debug:  
+2025-02-11T13:17:10.012Z - debug:  
+2025-02-11T13:17:10.012Z - debug:  
+2025-02-11T13:17:12.024Z - debug:  
+2025-02-11T13:17:16.662Z - debug:  
+2025-02-11T13:17:53.675Z - debug:  
+2025-02-11T13:20:39.150Z - debug:  
+2025-02-11T13:21:04.260Z - debug:  
+2025-02-11T13:21:04.317Z - debug:  
+2025-02-11T13:21:21.596Z - info: Pages built
+2025-02-11T13:21:24.327Z - info: Site data built
+2025-02-11T13:21:24.327Z - info: Website generation complete! Total build time: 301.892s
+2025-02-11T13:21:24.328Z - info: Build success!
+2025-02-11T13:23:21.935Z - error: uncaughtException: fatal: unable to access 'https://github.com/nus-cs2113-AY2425S2/website.git/': Could not resolve host: github.com
+ date=Tue Feb 11 2025 21:23:21 GMT+0800 (Singapore Standard Time), pid=51976, uid=null, gid=null, cwd=D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website, execPath=C:\Program Files\nodejs\node.exe, version=v18.17.1, argv=[C:\Program Files\nodejs\node.exe, C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\index.js, deploy], rss=476655616, heapTotal=552718336, heapUsed=326881760, external=992000, arrayBuffers=45645, loadavg=[0, 0, 0], uptime=216758.765
+ProcessError: fatal: unable to access 'https://github.com/nus-cs2113-AY2425S2/website.git/': Could not resolve host: github.com
+
+    at ChildProcess.<anonymous> (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\gh-pages\lib\git.js:42:16)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:302:5)
+2025-02-11T13:36:26.104Z - info: Website generation started at 9:36:09 pm
+2025-02-11T13:36:33.935Z - info: Building assets...
