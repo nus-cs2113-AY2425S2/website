@@ -37,3 +37,31 @@ ProcessError: fatal: unable to access 'https://github.com/nus-cs2113-AY2425S2/we
     at ChildProcess._handle.onexit (node:internal/child_process:302:5)
 2025-02-11T13:36:26.104Z - info: Website generation started at 9:36:09 pm
 2025-02-11T13:36:33.935Z - info: Building assets...
+2025-02-11T13:36:39.475Z - info: Assets built
+2025-02-11T13:36:39.476Z - info: Generating pages...
+2025-02-11T13:36:58.312Z - debug:  
+2025-02-11T13:36:58.317Z - debug:  
+2025-02-11T13:36:58.317Z - debug:  
+2025-02-11T13:36:58.317Z - debug:  
+2025-02-11T13:36:58.318Z - debug:  
+2025-02-11T13:36:58.318Z - debug:  
+2025-02-11T13:36:58.318Z - debug:  
+2025-02-11T13:36:58.319Z - debug:  
+2025-02-11T13:36:58.319Z - debug:  
+2025-02-11T13:36:58.342Z - debug:  
+2025-02-11T13:36:58.342Z - debug:  
+2025-02-11T13:36:58.343Z - debug:  
+2025-02-11T13:36:58.343Z - debug:  
+2025-02-11T13:36:58.343Z - debug:  
+2025-02-11T13:36:58.343Z - debug:  
+2025-02-11T13:37:00.502Z - debug:  
+2025-02-11T13:37:06.868Z - debug:  
+2025-02-11T13:37:44.498Z - debug:  
+2025-02-11T13:40:39.765Z - debug:  
+2025-02-11T13:41:06.862Z - debug:  
+2025-02-11T13:41:06.866Z - debug:  
+2025-02-11T13:41:21.114Z - info: Pages built
+2025-02-11T13:41:22.626Z - info: Site data built
+2025-02-11T13:41:22.626Z - info: Website generation complete! Total build time: 313.148s
+2025-02-11T13:41:22.626Z - info: Build success!
+2025-02-11T13:45:23.411Z - info: The website has been deployed at: https://nus-cs2113-ay2425s2.github.io/website
