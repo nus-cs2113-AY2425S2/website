@@ -1,0 +1,42 @@
+2025-03-30T15:01:05.272Z - info: Website generation (lazy) started at 11:00:44 pm
+2025-03-30T15:01:20.384Z - warn: ENOENT: no such file or directory, open 'D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\cache\gh-pages\https!github.com!nus-cs2113-AY2425S2!website.git\book\_markbind\variables.md'
+2025-03-30T15:01:20.389Z - warn: ENOENT: no such file or directory, open 'D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\cache\gh-pages\https!github.com!nus-cs2113-AY2425S2!website.git\_markbind\variables.md'
+2025-03-30T15:01:20.568Z - info: Building assets...
+2025-03-30T15:02:23.289Z - info: Assets built
+2025-03-30T15:02:23.291Z - info: Generating landing page...
+2025-03-30T15:02:25.796Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-03-30T15:02:27.592Z - info: Site data built
+2025-03-30T15:02:27.593Z - info: Website generation (lazy) complete! Total build time: 103.15s
+2025-03-30T15:02:27.827Z - info: Serving "D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\_site" at http://127.0.0.1:8080
+2025-03-30T15:02:27.828Z - info: Press CTRL+C to stop ...
+2025-03-30T15:03:11.952Z - info: [11:03:11 pm] Reload for file change: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\_markbind\variables.md
+2025-03-30T15:03:11.953Z - info: Synchronizing opened pages list before reload
+2025-03-30T15:03:11.955Z - info: Current opened pages, from most-to-least recent:
+2025-03-30T15:03:11.955Z - info: 1. index
+2025-03-30T15:03:13.019Z - warn: ENOENT: no such file or directory, open 'D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\cache\gh-pages\https!github.com!nus-cs2113-AY2425S2!website.git\book\_markbind\variables.md'
+2025-03-30T15:03:13.023Z - warn: ENOENT: no such file or directory, open 'D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\cache\gh-pages\https!github.com!nus-cs2113-AY2425S2!website.git\_markbind\variables.md'
+2025-03-30T15:03:13.234Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-03-30T15:03:13.245Z - info: Rebuilding 1 pages
+2025-03-30T15:03:17.477Z - info: Site data built
+2025-03-30T15:03:17.484Z - info: Pages rebuilt
+2025-03-30T15:03:17.499Z - info: Website regeneration complete! Total build time: 4.518s
+2025-03-30T15:03:23.556Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\schedule\week11\tutorial as some of its dependencies were changed since the last visit
+2025-03-30T15:03:24.956Z - info: Site data built
+2025-03-30T15:03:24.957Z - info: Lazy website regeneration complete! Total build time: 1.403s
+2025-03-30T15:03:40.986Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\admin\index as some of its dependencies were changed since the last visit
+2025-03-30T15:03:41.615Z - info: Site data built
+2025-03-30T15:03:41.615Z - info: Lazy website regeneration complete! Total build time: 0.63s
+2025-03-30T15:03:51.186Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\admin\tp-pe as some of its dependencies were changed since the last visit
+2025-03-30T15:03:54.139Z - info: Site data built
+2025-03-30T15:03:54.140Z - info: Lazy website regeneration complete! Total build time: 2.954s
+2025-03-30T15:04:15.154Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\admin\tp-ped as some of its dependencies were changed since the last visit
+2025-03-30T15:04:19.228Z - info: Site data built
+2025-03-30T15:04:19.229Z - info: Lazy website regeneration complete! Total build time: 4.076s
+2025-03-30T15:06:45.268Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\admin\tp-deliverables as some of its dependencies were changed since the last visit
+2025-03-30T15:06:47.076Z - info: Site data built
+2025-03-30T15:06:47.077Z - info: Lazy website regeneration complete! Total build time: 1.808s
+2025-03-30T15:07:34.418Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\admin\tutorials as some of its dependencies were changed since the last visit
+2025-03-30T15:07:35.864Z - info: Site data built
+2025-03-30T15:07:35.864Z - info: Lazy website regeneration complete! Total build time: 1.447s
+2025-03-30T15:12:34.788Z - info: Website generation started at 11:11:49 pm
+2025-03-30T15:12:45.222Z - info: Building assets...
