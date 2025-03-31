@@ -59,7 +59,7 @@
 
 * **Those opting for the F2F mode can ignore any Zoom-related points** in the instructions below.
 
-* **When**: ==Last lecture slot of the semester== ({{ get_date(date_w13_start, 4, format=format_normal, time="") | trim }}).
+* **When**: ==Week 12 lecture slot== ({{ get_date(date_w12_start, 4, format=format_normal, time="") | trim }}).
 
 {{ show_faq("tpPeEndTime") }}
 
