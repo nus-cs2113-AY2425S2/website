@@ -1,0 +1,141 @@
+2025-04-05T07:11:38.520Z - info: Website generation (lazy) started at 3:11:17 pm
+2025-04-05T07:11:53.899Z - warn: ENOENT: no such file or directory, open 'D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\cache\gh-pages\https!github.com!nus-cs2113-AY2425S2!website.git\book\_markbind\variables.md'
+2025-04-05T07:11:53.904Z - warn: ENOENT: no such file or directory, open 'D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\cache\gh-pages\https!github.com!nus-cs2113-AY2425S2!website.git\_markbind\variables.md'
+2025-04-05T07:11:54.132Z - info: Building assets...
+2025-04-05T07:12:54.419Z - info: Assets built
+2025-04-05T07:12:54.423Z - info: Generating landing page...
+2025-04-05T07:12:57.825Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-04-05T07:12:59.816Z - info: Site data built
+2025-04-05T07:12:59.818Z - info: Website generation (lazy) complete! Total build time: 102.216s
+2025-04-05T07:13:00.087Z - info: Serving "D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\_site" at http://127.0.0.1:8080
+2025-04-05T07:13:00.087Z - info: Press CTRL+C to stop ...
+2025-04-05T07:18:44.965Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\schedule\week12\index as some of its dependencies were changed since the last visit
+2025-04-05T07:18:47.526Z - info: Site data built
+2025-04-05T07:18:47.528Z - info: Lazy website regeneration complete! Total build time: 2.569s
+2025-04-05T07:18:53.667Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\schedule\week12\admin as some of its dependencies were changed since the last visit
+2025-04-05T07:18:54.154Z - info: Site data built
+2025-04-05T07:18:54.155Z - info: Lazy website regeneration complete! Total build time: 0.489s
+2025-04-05T07:18:58.183Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\schedule\week12\topics as some of its dependencies were changed since the last visit
+2025-04-05T07:18:59.989Z - info: Site data built
+2025-04-05T07:18:59.989Z - info: Lazy website regeneration complete! Total build time: 1.807s
+2025-04-05T07:33:18.923Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\admin\index as some of its dependencies were changed since the last visit
+2025-04-05T07:33:19.857Z - info: Site data built
+2025-04-05T07:33:19.858Z - info: Lazy website regeneration complete! Total build time: 0.935s
+2025-04-05T07:36:29.330Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\admin\tp-pe as some of its dependencies were changed since the last visit
+2025-04-05T07:36:32.524Z - info: Site data built
+2025-04-05T07:36:32.524Z - info: Lazy website regeneration complete! Total build time: 3.194s
+2025-04-05T07:38:30.217Z - info: [3:38:30 pm] Reload for file change: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\admin\tp-pe-fragment.md
+2025-04-05T07:38:30.218Z - info: Synchronizing opened pages list before reload
+2025-04-05T07:38:30.219Z - info: Current opened pages, from most-to-least recent:
+2025-04-05T07:38:30.220Z - info: 1. admin/tp-pe
+2025-04-05T07:38:31.223Z - info: Rebuilding 1 pages
+2025-04-05T07:38:34.816Z - info: Site data built
+2025-04-05T07:38:34.817Z - info: Pages rebuilt
+2025-04-05T07:38:34.818Z - info: Website regeneration complete! Total build time: 3.596s
+2025-04-05T07:38:47.914Z - info: [3:38:47 pm] Reload for file change: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\admin\tp-pe-fragment.md
+2025-04-05T07:38:47.914Z - info: Synchronizing opened pages list before reload
+2025-04-05T07:38:47.914Z - info: Current opened pages, from most-to-least recent:
+2025-04-05T07:38:47.915Z - info: 1. admin/tp-pe
+2025-04-05T07:38:48.918Z - info: Rebuilding 1 pages
+2025-04-05T07:38:52.039Z - info: Site data built
+2025-04-05T07:38:52.040Z - info: Pages rebuilt
+2025-04-05T07:38:52.041Z - info: Website regeneration complete! Total build time: 3.123s
+2025-04-05T07:39:58.886Z - info: [3:39:58 pm] Reload for file change: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\admin\tp-pe-fragment.md
+2025-04-05T07:39:58.886Z - info: Synchronizing opened pages list before reload
+2025-04-05T07:39:58.887Z - info: Current opened pages, from most-to-least recent:
+2025-04-05T07:39:58.888Z - info: 1. admin/tp-pe
+2025-04-05T07:39:59.908Z - info: Rebuilding 1 pages
+2025-04-05T07:40:03.392Z - info: Site data built
+2025-04-05T07:40:03.393Z - info: Pages rebuilt
+2025-04-05T07:40:03.393Z - info: Website regeneration complete! Total build time: 3.487s
+2025-04-05T07:40:42.078Z - info: [3:40:42 pm] Reload for file change: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\_markbind\variables.md
+2025-04-05T07:40:42.079Z - info: Synchronizing opened pages list before reload
+2025-04-05T07:40:42.080Z - info: Current opened pages, from most-to-least recent:
+2025-04-05T07:40:42.080Z - info: 1. admin/tp-pe
+2025-04-05T07:40:43.152Z - warn: ENOENT: no such file or directory, open 'D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\cache\gh-pages\https!github.com!nus-cs2113-AY2425S2!website.git\book\_markbind\variables.md'
+2025-04-05T07:40:43.154Z - warn: ENOENT: no such file or directory, open 'D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\cache\gh-pages\https!github.com!nus-cs2113-AY2425S2!website.git\_markbind\variables.md'
+2025-04-05T07:40:43.284Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2025-04-05T07:40:43.290Z - info: Rebuilding 1 pages
+2025-04-05T07:40:46.818Z - info: Site data built
+2025-04-05T07:40:46.818Z - info: Pages rebuilt
+2025-04-05T07:40:46.819Z - info: Website regeneration complete! Total build time: 3.728s
+2025-04-05T07:40:50.937Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\index as some of its dependencies were changed since the last visit
+2025-04-05T07:40:52.798Z - info: Site data built
+2025-04-05T07:40:52.799Z - info: Lazy website regeneration complete! Total build time: 1.863s
+2025-04-05T07:41:06.275Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\schedule\week12\admin as some of its dependencies were changed since the last visit
+2025-04-05T07:41:06.676Z - info: Site data built
+2025-04-05T07:41:06.677Z - info: Lazy website regeneration complete! Total build time: 0.402s
+2025-04-05T07:42:37.291Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\schedule\week12\topics as some of its dependencies were changed since the last visit
+2025-04-05T07:42:39.602Z - info: Site data built
+2025-04-05T07:42:39.603Z - info: Lazy website regeneration complete! Total build time: 2.313s
+2025-04-05T07:42:45.094Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\schedule\week12\project as some of its dependencies were changed since the last visit
+2025-04-05T07:42:53.109Z - info: Site data built
+2025-04-05T07:42:53.111Z - info: Lazy website regeneration complete! Total build time: 8.018s
+2025-04-05T07:45:52.266Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\admin\index as some of its dependencies were changed since the last visit
+2025-04-05T07:45:52.945Z - info: Site data built
+2025-04-05T07:45:52.946Z - info: Lazy website regeneration complete! Total build time: 0.68s
+2025-04-05T07:46:47.224Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\admin\peerEvaluations as some of its dependencies were changed since the last visit
+2025-04-05T07:46:48.051Z - info: Site data built
+2025-04-05T07:46:48.052Z - info: Lazy website regeneration complete! Total build time: 0.828s
+2025-04-05T07:46:53.715Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\schedule\week12\index as some of its dependencies were changed since the last visit
+2025-04-05T07:46:55.873Z - info: Site data built
+2025-04-05T07:46:55.873Z - info: Lazy website regeneration complete! Total build time: 2.159s
+2025-04-05T07:47:09.296Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\schedule\week13\index as some of its dependencies were changed since the last visit
+2025-04-05T07:47:10.161Z - info: Site data built
+2025-04-05T07:47:10.162Z - info: Lazy website regeneration complete! Total build time: 0.867s
+2025-04-05T07:47:14.876Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\schedule\week13\admin as some of its dependencies were changed since the last visit
+2025-04-05T07:47:15.478Z - info: Site data built
+2025-04-05T07:47:15.479Z - info: Lazy website regeneration complete! Total build time: 0.603s
+2025-04-05T07:48:57.005Z - info: [3:48:57 pm] Reload for file change: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\_course-CS2113\weeklyAdminTasks-fragment.md
+2025-04-05T07:48:57.005Z - info: Synchronizing opened pages list before reload
+2025-04-05T07:48:57.006Z - info: Current opened pages, from most-to-least recent:
+2025-04-05T07:48:57.006Z - info: 1. schedule/week13/admin
+2025-04-05T07:48:58.014Z - info: Rebuilding 1 pages
+2025-04-05T07:48:58.572Z - info: Site data built
+2025-04-05T07:48:58.573Z - info: Pages rebuilt
+2025-04-05T07:48:58.574Z - info: Website regeneration complete! Total build time: 0.561s
+2025-04-05T07:49:02.881Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\schedule\week12\index as some of its dependencies were changed since the last visit
+2025-04-05T07:49:05.420Z - info: Site data built
+2025-04-05T07:49:05.421Z - info: Lazy website regeneration complete! Total build time: 2.541s
+2025-04-05T07:49:09.787Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\schedule\week12\admin as some of its dependencies were changed since the last visit
+2025-04-05T07:49:10.567Z - info: Site data built
+2025-04-05T07:49:10.568Z - info: Lazy website regeneration complete! Total build time: 0.781s
+2025-04-05T07:49:18.860Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\schedule\week12\topics as some of its dependencies were changed since the last visit
+2025-04-05T07:49:20.579Z - info: Site data built
+2025-04-05T07:49:20.579Z - info: Lazy website regeneration complete! Total build time: 1.72s
+2025-04-05T07:49:44.570Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\schedule\week13\index as some of its dependencies were changed since the last visit
+2025-04-05T07:49:45.413Z - info: Site data built
+2025-04-05T07:49:45.413Z - info: Lazy website regeneration complete! Total build time: 0.844s
+2025-04-05T07:49:52.148Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\schedule\week13\topics as some of its dependencies were changed since the last visit
+2025-04-05T07:49:52.596Z - info: Site data built
+2025-04-05T07:49:52.597Z - info: Lazy website regeneration complete! Total build time: 0.448s
+2025-04-05T07:50:00.956Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\schedule\week13\project as some of its dependencies were changed since the last visit
+2025-04-05T07:50:02.191Z - info: Site data built
+2025-04-05T07:50:02.192Z - info: Lazy website regeneration complete! Total build time: 1.236s
+2025-04-05T07:50:05.754Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\schedule\week13\tutorial as some of its dependencies were changed since the last visit
+2025-04-05T07:50:06.264Z - info: Site data built
+2025-04-05T07:50:06.265Z - info: Lazy website regeneration complete! Total build time: 0.512s
+2025-04-05T07:52:32.500Z - info: [3:52:32 pm] Reload for file change: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\admin\common-tutorials-fragment.md
+2025-04-05T07:52:32.501Z - info: Synchronizing opened pages list before reload
+2025-04-05T07:52:32.501Z - info: Current opened pages, from most-to-least recent:
+2025-04-05T07:52:32.502Z - info: 1. schedule/week13/tutorial
+2025-04-05T07:52:33.507Z - info: Rebuilding 1 pages
+2025-04-05T07:52:34.227Z - info: Site data built
+2025-04-05T07:52:34.228Z - info: Pages rebuilt
+2025-04-05T07:52:34.229Z - info: Website regeneration complete! Total build time: 0.722s
+2025-04-05T07:52:54.680Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\schedule\week12\tutorial as some of its dependencies were changed since the last visit
+2025-04-05T07:52:55.679Z - info: Site data built
+2025-04-05T07:52:55.679Z - info: Lazy website regeneration complete! Total build time: 0.999s
+2025-04-05T07:54:14.727Z - info: [3:54:14 pm] Reload for file change: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\admin\common-tutorials-fragment.md
+2025-04-05T07:54:14.728Z - info: Synchronizing opened pages list before reload
+2025-04-05T07:54:14.729Z - info: Current opened pages, from most-to-least recent:
+2025-04-05T07:54:14.729Z - info: 1. schedule/week12/tutorial
+2025-04-05T07:54:15.738Z - info: Rebuilding 1 pages
+2025-04-05T07:54:17.029Z - info: Site data built
+2025-04-05T07:54:17.030Z - info: Pages rebuilt
+2025-04-05T07:54:17.030Z - info: Website regeneration complete! Total build time: 1.294s
+2025-04-05T07:55:51.319Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\schedule\week13\tutorial as some of its dependencies were changed since the last visit
+2025-04-05T07:55:52.103Z - info: Site data built
+2025-04-05T07:55:52.104Z - info: Lazy website regeneration complete! Total build time: 0.785s
+2025-04-05T07:57:22.170Z - info: Website generation started at 3:56:40 pm
+2025-04-05T07:57:32.121Z - info: Building assets...
