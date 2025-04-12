@@ -441,7 +441,8 @@ Do the following tP task.
 
 <box type="info">
 
-No tutorial this week. **Take a break** and prepare for the last burst of tP activities coming up soon.
+* No tutorial this week. 
+* If you have questions related to past tutorials, you can post them in your tutorial's MS Teams channel, and tag the tutor.
 
 </box>
 </div>
