@@ -1,0 +1,35 @@
+2025-04-12T02:16:57.010Z - info: Website generation (lazy) started at 10:16:36 am
+2025-04-12T02:17:15.588Z - warn: ENOENT: no such file or directory, open 'D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\cache\gh-pages\https!github.com!nus-cs2113-AY2425S2!website.git\book\_markbind\variables.md'
+2025-04-12T02:17:15.591Z - warn: ENOENT: no such file or directory, open 'D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\cache\gh-pages\https!github.com!nus-cs2113-AY2425S2!website.git\_markbind\variables.md'
+2025-04-12T02:17:15.834Z - info: Building assets...
+2025-04-12T02:18:11.355Z - info: Assets built
+2025-04-12T02:18:11.358Z - info: Generating landing page...
+2025-04-12T02:18:14.969Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-04-12T02:18:17.270Z - info: Site data built
+2025-04-12T02:18:17.271Z - info: Website generation (lazy) complete! Total build time: 100.906s
+2025-04-12T02:18:17.528Z - info: Serving "D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\_site" at http://127.0.0.1:8080
+2025-04-12T02:18:17.529Z - info: Press CTRL+C to stop ...
+2025-04-12T02:22:12.511Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\admin\index as some of its dependencies were changed since the last visit
+2025-04-12T02:22:13.423Z - info: Site data built
+2025-04-12T02:22:13.425Z - info: Lazy website regeneration complete! Total build time: 0.914s
+2025-04-12T02:22:19.377Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\admin\tp-pe as some of its dependencies were changed since the last visit
+2025-04-12T02:22:22.273Z - info: Site data built
+2025-04-12T02:22:22.274Z - info: Lazy website regeneration complete! Total build time: 2.898s
+2025-04-12T02:22:44.551Z - info: [10:22:44 am] Reload for file change: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\admin\tp-pe-fragment.md
+2025-04-12T02:22:44.552Z - info: Synchronizing opened pages list before reload
+2025-04-12T02:22:44.552Z - info: Current opened pages, from most-to-least recent:
+2025-04-12T02:22:44.553Z - info: 1. admin/tp-pe
+2025-04-12T02:22:45.565Z - info: Rebuilding 1 pages
+2025-04-12T02:22:48.704Z - info: Site data built
+2025-04-12T02:22:48.706Z - info: Pages rebuilt
+2025-04-12T02:22:48.707Z - info: Website regeneration complete! Total build time: 3.143s
+2025-04-12T02:23:44.191Z - info: [10:23:44 am] Reload for file change: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem2\website\admin\tp-pe-fragment.md
+2025-04-12T02:23:44.192Z - info: Synchronizing opened pages list before reload
+2025-04-12T02:23:44.193Z - info: Current opened pages, from most-to-least recent:
+2025-04-12T02:23:44.194Z - info: 1. admin/tp-pe
+2025-04-12T02:23:45.201Z - info: Rebuilding 1 pages
+2025-04-12T02:23:49.152Z - info: Site data built
+2025-04-12T02:23:49.154Z - info: Pages rebuilt
+2025-04-12T02:23:49.155Z - info: Website regeneration complete! Total build time: 3.954s
+2025-04-12T02:27:50.593Z - info: Website generation started at 10:27:06 am
+2025-04-12T02:28:01.867Z - info: Building assets...
